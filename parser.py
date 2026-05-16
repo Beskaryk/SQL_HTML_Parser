@@ -18,7 +18,7 @@ def fmt_date(ts):
 st.sidebar.title("Инструменты")
 app_mode = st.sidebar.radio("Меню", ["SQL Парсер", "Парсер закладок"])
 
-if app_mode == "SQL Парсер":
+if app_mode == "SQL Пар сер":
     st.title("SQL Парсер баз данных")
     st.markdown("---")
     
