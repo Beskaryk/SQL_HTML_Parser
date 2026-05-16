@@ -44,5 +44,3 @@
 4. Запустите приложение:
    ```bash
    streamlit run main.py
-   
-```
